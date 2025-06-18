@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://prepgenix.suryanshsk.tech/lovable-uploads/713e5048-e89b-4760-bd59-d35da864b613.png" alt="Prepgenix Logo" width="150"/>
+  <img src="https://prepgenix.suryanshsk.tech/lovable-uploads/88023545-0eb5-4ec3-ba55-5f259f9f14de.png" alt="Prepgenix Logo" width="150"/>
   <h1>Prepgenix</h1>
   <p><strong>AI-Powered Interview Practice Platform</strong></p>
   <p>Crack your dream job with realistic AI interviews, detailed feedback, resume analysis, and more.</p>
